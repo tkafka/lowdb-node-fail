@@ -1,0 +1,26 @@
+{
+  "name": "lowdb-node-fail",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "build-start": "next build && next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lowdb": "^5.0.5",
+    "next": "^13.0.0",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.5",
+    "@types/react": "18.0.23",
+    "typescript": "4.8.4"
+  }
+}
